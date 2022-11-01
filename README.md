@@ -2,7 +2,7 @@
 
 1. first Task : Create a terraform to launch a EKS cluster. /
    
-  > terraform init
+  > terraform init  /n
   > terraform plan
   > terraform apply --auto-approve
   > rm ~/.kube/config
